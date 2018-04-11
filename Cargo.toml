@@ -1,0 +1,7 @@
+[package]
+name = "ipcalculator"
+version = "0.1.0"
+authors = ["Klaus Eisentraut <klaus.eisentraut@siemens-healthineers.com>"]
+
+[dependencies]
+rand = "0.4"
